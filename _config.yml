@@ -1,0 +1,7 @@
+name: Faculdade Futura
+title: Faculdade Futura
+description: >
+    Ac 5 e 6
+permalink: ':title/'
+baseurl: "https://xhenrix.github.io/index.html"
+url: "username.github.io"
